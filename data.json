@@ -158,30 +158,198 @@
       }
     ],
     "personas": [
-        {
-          "id": "1",
-          "nroId (CC, Nit)":"1003697854",
-          "Nombre": "CAMPUSLAND",
-          "Email": "test@gmail.com",
-          "Telefonos": [
-            {
-                "movil":{
-                    "id": "1",
-                    "num": "3002014587"
-                },
-                "casa":{
-                    "id": "1",
-                    "num": "3002014587"
-                }
-            }]
-        }
-    ],
+      {
+        "id": "1",
+        "nroId (CC, Nit)": "1003697854",
+        "Nombre": "Pedro Gomez",
+        "Email": "pedrogomez@example.com",
+        "Telefonos": [
+          {
+            "movil": {
+              "id": "1",
+              "num": "3002014588"
+            },
+            "casa": {
+              "id": "1",
+              "num": "3002014589"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "nroId (CC, Nit)": "1003697855",
+        "Nombre": "Orbin Pabon",
+        "Email": "orbinpabon@example.com",
+        "Telefonos": [
+          {
+            "movil": {
+              "id": "2",
+              "num": "3002014590"
+            },
+            "casa": {
+              "id": "2",
+              "num": "3002014591"
+            }
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "nroId (CC, Nit)": "1003697856",
+        "Nombre": "Miguel Castro",
+        "Email": "miguelcastro@example.com",
+        "Telefonos": [
+          {
+            "movil": {
+              "id": "3",
+              "num": "3002014592"
+            },
+            "casa": {
+              "id": "3",
+              "num": "3002014593"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "nroId (CC, Nit)": "1003697857",
+        "Nombre": "Michael Garzon",
+        "Email": "michaelgarzon@example.com",
+        "Telefonos": [
+          {
+            "movil": {
+              "id": "4",
+              "num": "3002014594"
+            },
+            "casa": {
+              "id": "4",
+              "num": "3002014595"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "nroId (CC, Nit)": "1003697858",
+        "Nombre": "Karen Celis",
+        "Email": "karencelis@example.com",
+        "Telefonos": [
+          {
+            "movil": {
+              "id": "5",
+              "num": "3002014596"
+            },
+            "casa": {
+              "id": "5",
+              "num": "3002014597"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "nroId (CC, Nit)": "1003697859",
+        "Nombre": "Juan Jose Lizarazo",
+        "Email": "juanjoselizarazo@example.com",
+        "Telefonos": [
+          {
+            "movil": {
+              "id": "6",
+              "num": "3002014598"
+            },
+            "casa": {
+              "id": "6",
+              "num": "3002014599"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "nroId (CC, Nit)": "1003697860",
+        "Nombre": "Johvelr Pardo",
+        "Email": "johvelrpardo@example.com",
+        "Telefonos": [
+          {
+            "movil": {
+              "id": "7",
+              "num": "3002014600"
+            },
+            "casa": {
+              "id": "7",
+              "num": "3002014601"
+            }
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "nroId (CC, Nit)": "1003697861",
+        "Nombre": "Carlos Rueda",
+        "Email": "carlosrueda@example.com",
+        "Telefonos": [
+          {
+            "movil": {
+              "id": "8",
+              "num": "3002014602"
+            },
+            "casa": {
+              "id": "8",
+              "num": "3002014603"
+            }
+          }
+        ]
+      }
+    ]
+    ,
     "zonas":[
-        {
-            "id":1,
-            "nombreZona": "sputnik",
-            "totalCapacidad": 35
-        }
+      {
+        "id": 1,
+        "nombreZona": "Apolo",
+        "totalCapacidad": 34
+      },
+      {
+        "id": 2,
+        "nombreZona": "Artemis",
+        "totalCapacidad": 32
+      },
+      {
+        "id": 3,
+        "nombreZona": "Sputnik",
+        "totalCapacidad": 35
+      },
+      {
+        "id": 4,
+        "nombreZona": "Skylab",
+        "totalCapacidad": 20
+      },
+      {
+        "id": 5,
+        "nombreZona": "Cosmo",
+        "totalCapacidad": 25
+      },
+      {
+        "id": 6,
+        "nombreZona": "Kepler",
+        "totalCapacidad": 30
+      },
+      {
+        "id": 7,
+        "nombreZona": "Naves",
+        "totalCapacidad": 24
+      },
+      {
+        "id": 8,
+        "nombreZona": "Auditorio",
+        "totalCapacidad": 55
+      },
+      {
+        "id": 9,
+        "nombreZona": "Zona Hunters",
+        "totalCapacidad": 60
+      }
     ],
     "asignaciones": [
       {
@@ -193,3 +361,4 @@
       }
     ]  
 }
+
