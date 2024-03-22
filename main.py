@@ -23,3 +23,6 @@ if response.status_code == 200:
 else:
     # Si la solicitud no fue exitosa, imprimir el código de estado
     print("Error:", response.status_code)
+
+
+#que lo que mmguevo 
